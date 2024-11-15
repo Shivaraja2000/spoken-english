@@ -169,7 +169,48 @@ const data = [
     { english: "to boil", tamil: "கொட்டுதல்" },
     { english: "to burn", tamil: "செய்யுதல்" },
     { english: "to freeze", tamil: "பரிசுக்கு பரிசுக்கு" },
-    { english: "to fry", tamil: "கொள்ளும்" }
+    { english: "to fry", tamil: "கொள்ளும்" },
+
+      { english: "I read books.", tamil: "நான் புத்தகங்களை படிக்கிறேன்." },
+      { english: "I am reading a book.", tamil: "நான் ஒரு புத்தகம் படிக்கிறேன்." },
+      { english: "I have read the book.", tamil: "நான் அந்த புத்தகத்தை படித்துவிட்டேன்." },
+      { english: "I have been reading for an hour.", tamil: "நான் ஒரு மணி நேரமாக படித்து வருகிறேன்." },
+
+      { english: "I went to the market.", tamil: "நான் சந்தைக்கு போனேன்." },
+      { english: "I was reading when you called me.", tamil: "நீங்கள் என்னை அழைத்தபோது, நான் புத்தகம் படிக்கின்றேன்." },
+      { english: "I had eaten before he arrived.", tamil: "அவன் வந்த before நான் சாப்பிட்டிருந்தேன்." },
+      { english: "I had been reading for two hours before she called.", tamil: "அவள் அழைக்குமுன், நான் இரண்டு மணி நேரமாக படித்து வந்தேன்." },
+
+      { english: "I will go to the park tomorrow.", tamil: "நான் நாளை பூங்காவுக்கு போவேன்." },
+      { english: "I will be watching a movie at 8 pm.", tamil: "நான் 8 மணிக்கு ஒரு திரைப்படத்தைப் பார்க்க இருப்பேன்." },
+      { english: "I will have finished my homework by 6 pm.", tamil: "நான் 6 மணிக்குள் என் வீட்டுப்பாடத்தை முடித்துவிடுவேன்." },
+      { english: "I will have been working for 5 hours by the time you arrive.", tamil: "நீங்கள் வந்தபோது, நான் 5 மணி நேரமாக வேலை செய்து கொண்டிருப்பேன்." },
+
+      { english: "I eat breakfast every morning.", tamil: "நான் ஒவ்வொரு காலை உணவு சாப்பிடுகிறேன்." },
+      { english: "She studies every day.", tamil: "அவள் ஒவ்வொரு நாளும் படிக்கிறாள்." },
+      { english: "They work in an office.", tamil: "அவர்கள் ஒரு அலுவலகத்தில் வேலை செய்கிறார்கள்." },
+      { english: "I don’t like coffee.", tamil: "நான் காபி விரும்பவில்லை." },
+      { english: "He doesn’t play football.", tamil: "அவன் கால்பந்து விளையாட மாட்டான்." },
+      { english: "She is reading a book right now.", tamil: "அவள் இப்போது ஒரு புத்தகம் படிக்கின்றாள்." },
+      { english: "They are working on a new project.", tamil: "அவர்கள் ஒரு புதிய திட்டத்தில் வேலை செய்து கொண்டிருக்கிறார்கள்." },
+      { english: "I have just eaten lunch.", tamil: "நான் சிறிது முன்பு மதிய உணவு சாப்பிட்டேன்." },
+      { english: "I have been studying for three hours.", tamil: "நான் மூன்று மணி நேரமாக படித்து வருகிறேன்." },
+      { english: "He has finished his homework.", tamil: "அவன் தனது வீட்டுப்பாடத்தை முடித்துவிட்டான்." },
+
+      { english: "I saw a movie last night.", tamil: "நான் நேற்று இரவு ஒரு திரைப்படம் பார்த்தேன்." },
+      { english: "We were watching TV when the power went out.", tamil: "மின்சாரம் போன போது, நாம் தொலைக்காட்சி பார்ப்பதை தொடர்ந்தோம்." },
+      { english: "I had already seen that movie before.", tamil: "நான் அந்த திரைப்படத்தை முன்னர் பார்த்திருந்தேன்." },
+      { english: "She had been studying all day before the test.", tamil: "பரிசோதனையை முன் அவள் முழு நாள் படித்து கொண்டிருந்தாள்." },
+      { english: "They played football in the park yesterday.", tamil: "அவர்கள் நேற்று பூங்காவில் கால்பந்து விளையாடினார்கள்." },
+      { english: "I was sleeping when the phone rang.", tamil: "தொலைபேசி ஒலித்தபோது நான் தூங்கிக் கொண்டிருந்தேன்." },
+      { english: "He had lived in London for five years before moving to New York.", tamil: "லண்டனில் ஐந்து ஆண்டுகளாக வாழ்ந்த பிறகு, அவன் நியூயார்க்குக்கு மாற்றியுள்ளார்." },
+
+      { english: "I will study tomorrow.", tamil: "நான் நாளை படிக்கப்போகிறேன்." },
+      { english: "We will be going to the concert next week.", tamil: "நாம் அடுத்த வாரம் கச்சேரிக்கு போவோம்." },
+      { english: "They will have finished their work by 5 pm.", tamil: "அவர்கள் 5 மணிக்குள் தங்கள் பணியை முடித்துவிடுவார்கள்." },
+      { english: "By next year, I will have been working here for three years.", tamil: "அடுத்த ஆண்டு, நான் இங்கே மூன்று ஆண்டுகளாக வேலை செய்து கொண்டிருப்பேன்." },
+      { english: "I will call you when I arrive.", tamil: "நான் வந்ததும் உங்களை அழைப்பேன்." },
+
 ];
 
 
